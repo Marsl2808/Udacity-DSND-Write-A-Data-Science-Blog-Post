@@ -14,7 +14,7 @@ Code is developed with:
 - seaborn (0.9.0)
 - matplotlib (3.0.0)
 
-you need to download the data under the [link](https://insights.stackoverflow.com/survey) and save it as: "survey_results_public.csv"
+you need to download the data under the [link](https://insights.stackoverflow.com/survey) and save it as: "survey_results_public.csv" to run the code.
 
 ## 2. Project Motivation <a name="motivation"></a>
 For this project, I was interestested in using Stack Overflow data from 2019 to answer:
