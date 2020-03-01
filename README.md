@@ -1,4 +1,4 @@
-# Analysis questionnaire in multiple years
+#  Which direction should your developer journey go?
 
 --------------------------------------
 1. [Installation](#installation)
@@ -22,10 +22,10 @@ For this project, I was interestested in using Stack Overflow data from 2019 to 
 
 ## 3. File Descriptions <a name="files"></a>  
 - ds_block_post_submit.ipynb containing the developed code. 
-- The data can be found under: [link](https://insights.stackoverflow.com/survey).
+- The data can be found under: [link](https://insights.stackoverflow.com/survey)
 
 ## 4. Results <a name="results"></a>
-Medium post under: [link](https://medium.com/@524022279/six-trends-about-developer-from-2011-to-2018-fac7f237567e).
+Medium post under: [link](https://medium.com/@524022279/six-trends-about-developer-from-2011-to-2018-fac7f237567e)
 
 ## 5. Licensing, Authors, Acknowledgements<a name="licensing"></a>
 You can find the Licensing for the data and other descriptive information at: [link](https://insights.stackoverflow.com/survey)
